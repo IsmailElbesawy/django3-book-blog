@@ -1,0 +1,21 @@
+### install virtualenv in windows
+\> pip install virtualenv
+
+### start virtualenve in windows --> name == blog
+\> virtualenv blog
+
+### activate virtualenv in windows --> name == blog
+\> blog\scripts\activate
+
+### clone github repository in your pc
+\> git clone https://github.com/IsmailElbesawy/django3-book-blog
+
+### install program from requirements.txt environment.
+\> pip install -r requirements.txt
+
+
+
+
+
+### Generate a requirements file 
+\> pip freeze > requirements.txt
